@@ -2,6 +2,6 @@
 
 A mini to do list made with react
 
-![alt text](https://prnt.sc/SgypK1OHSQ3x)
+![alt text](![alt text](https://github.com/darreng015/To-Do-List/blob/images/Screenshot_3.png?raw=true))
 
-![alt text](https://prnt.sc/4pF0QQ6OEAsS)
+![alt text](![alt text](https://github.com/darreng015/To-Do-List/blob/images/Screenshot_2.png?raw=true))
